@@ -1,0 +1,4 @@
+name: OmniBalance
+version: '${project.version}'
+main: com.omniscient.omnibalance.OmniBalance
+api-version: 1.19
